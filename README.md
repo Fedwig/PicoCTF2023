@@ -1,5 +1,5 @@
 <br/>
-<h1>PicoCTF 2023 Writeup</h1>
+<h1>picoCTF 2023 Writeup</h1>
 
 ![a8ddf567_Untitled](https://github.com/Fedwig/PicoCTF2023/assets/85858497/4c97242a-f7b8-45d9-bb6c-80e1d4104d84)
 
