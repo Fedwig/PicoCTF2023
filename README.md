@@ -1,5 +1,20 @@
-<br/>
 <h1>picoCTF 2023 Writeup</h1>
+
+<h2>Table of Contents</h2>
+
+* [Binary Exploitation Challenges](#binary-exploitation-challenges)
+   * [Challenge: two-sum](#challenge-two-sum)
+   * [Challenge: VNE](#challenge-vne)
+   * [Challenge: hijacking](#challenge-hijacking)
+   * [Challenge: HideToSee](#challenge-hidetosee)
+   * [Challenge: ReadMyCert](#challenge-readmycert)
+   * [Challenge: rotation](#challenge-rotation)
+* [Forensics](#forensics)
+   * [Challenge: hideme](#challenge-hideme)
+* [Web Exploitation](#web-exploitation)
+   * [Challenge: findme](#challenge-findme)
+   * [Challenge: MoreSQLi](#challenge-moresqli)
+
 
 ![a8ddf567_Untitled](https://github.com/Fedwig/PicoCTF2023/assets/85858497/4c97242a-f7b8-45d9-bb6c-80e1d4104d84)
 
